@@ -2,7 +2,7 @@ CC = g++
 CFLAGS = -pipe -O2 -std=c++11
 LFLAGS = -lm
 
-output: $(file)
+all: $(file)
 	$(CC) $(CFLAGS) $(file) $(LFLAGS)
 
 clean:
