@@ -2,3 +2,4 @@
   UCSD professors on Coursera.
 - The code solutions are split week wise.
 - Week2 and week5 did not have any assignment problems
+- The problems are contained in .pdf files located inside the respective folders
